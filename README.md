@@ -169,6 +169,3 @@ We love contributions! To add a tool:
 
 ---
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/00000000000000000000000000000000.svg" title="Repo beats">
-</p>
