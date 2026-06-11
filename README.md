@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Zero-Dollar-AI-Stacks?style=for-the-badge&logo=github&color=blue" alt="GitHub forks">
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Zero-Dollar-AI-Stacks?style=for-the-badge&logo=github&color=green" alt="License">
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Zero-Dollar-AI-Stacks?style=for-the-badge&logo=github&color=orange" alt="Last Commit">
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 </p>
 
 <p align="center">
