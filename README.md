@@ -40,7 +40,7 @@ Optimized, free-to-run AI stacks for common use cases.
 | Tool | Free Tier Limit | Premium Limit |
 | :--- | :--- | :--- |
 | **[Groq](https://groq.com/)** | Generous rate limits for Llama 3, Mixtral | Pay-as-you-go / Enterprise |
-| **[Hugging Face Inference API](https://hugging-face.org/inference-api)** | Free for many open-source models | Pro / Enterprise plans |
+| **[Hugging Face Inference API](https://huggingface.co/inference-api)** | Free for many open-source models | Pro / Enterprise plans |
 | **[Together AI](https://www.together.ai/)** | $5 free credit to start | Pay-as-you-go |
 | **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/)** | 10,000 neurons/day (free tier) | Paid usage |
 | **[Mistral AI](https://console.mistral.ai/)** | Free trial credits | Pay-as-you-go |
