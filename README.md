@@ -101,6 +101,7 @@ A comprehensively curated repository of **Generative AI tools**, **Large Languag
 | :--- | :--- | :--- |
 | **[Stable Diffusion (Local)](https://github.com/Stability-AI/stablediffusion)** | 100% Free (Self-hosted) | N/A |
 | **[Leonardo.ai](https://leonardo.ai/)** | 150 tokens daily | Subscription plans |
+| **[GPT Image 2](https://gptimage2.asia/)** | Free credits/trial available for browser-based image generation and editing | Freemium / paid credits |
 | **[Playground AI](https://playgroundai.com/)** | 50 images per day | Pro plans |
 | **[SeaArt.ai](https://www.seaart.ai/)** | Daily free credits | Subscription plans |
 
